@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\testmacro\testmacro\bin\Debug\netcoreapp3.1\testmacro.exe
+C:\Users\Z\source\repos\testmacro\testmacro\bin\Debug\netcoreapp3.1\testmacro.deps.json
+C:\Users\Z\source\repos\testmacro\testmacro\bin\Debug\netcoreapp3.1\testmacro.runtimeconfig.json
+C:\Users\Z\source\repos\testmacro\testmacro\bin\Debug\netcoreapp3.1\testmacro.runtimeconfig.dev.json
+C:\Users\Z\source\repos\testmacro\testmacro\bin\Debug\netcoreapp3.1\testmacro.dll
+C:\Users\Z\source\repos\testmacro\testmacro\bin\Debug\netcoreapp3.1\testmacro.pdb
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\testmacro.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\testmacro.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\testmacro.AssemblyInfo.cs
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\testmacro.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\testmacro.dll
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\testmacro.pdb
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\testmacro.genruntimeconfig.cache
+C:\Users\Z\source\repos\testmacro\testmacro\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Z\source\repos\testmacro\testmacro\obj\Debug\netcoreapp3.1\testmacro.csproj.ResolveComReference.cache
